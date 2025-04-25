@@ -1,5 +1,5 @@
 <h1 align="center" style="color:blue;">Hi 👋, I'm Nam</h1>
-<h3 align="center" style="color:blue;">A passionate Data Engineering from VietNam</h3>
+<h3 align="center" style="color:blue;">A passionate Data from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dovannam115&label=Profile%20views&color=0e75b6&style=flat" alt="dovannam115" /> </p>
 
