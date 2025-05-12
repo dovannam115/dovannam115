@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/marcusdo" target="blank"><img src="https://img.shields.io/twitter/follow/marcusdo?logo=twitter&style=for-the-badge" alt="marcusdo" /></a> </p>
 
-- 🔭 I’m currently working on [Actuarial Science](GIC)
+- 🔭 I’m currently working on [Actuarial Scientist](GIC)
 
 - 🌱 I’m currently learning **DataBrick, Kafka, S3**
 
