@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/marcusdo" target="blank"><img src="https://img.shields.io/twitter/follow/marcusdo?logo=twitter&style=for-the-badge" alt="marcusdo" /></a> </p>
 
-- 🔭 I’m currently working on [Data Analyst] at [PVI Digital](https://pvi.digital)
+- 🔭 I’m currently working on Data Analyst at [PVI Digital](https://pvi.digital)
 
 - 🌱 I’m currently learning **DataBrick, Kafka, S3**
 
@@ -18,12 +18,3 @@
 - 💬 Ask me about **Bigdata, AI, BlockChain**
 
 - 📫 How to reach me **dovannama5qtk48@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.marcus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.marcus" height="30" width="40" /></a>
-<a href="https://twitter.com/marcusdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcusdo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/namdo115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namdo115" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/namdo115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namdo115" height="30" width="40" /></a>
-</p>
